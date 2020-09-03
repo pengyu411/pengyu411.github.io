@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Yu Peng
 
 You can use the [editor on GitHub](https://github.com/pengyu411/YuPeng.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
